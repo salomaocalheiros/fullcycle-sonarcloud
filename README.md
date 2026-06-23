@@ -1,8 +1,8 @@
-﻿# Fullcycle Sonarcloud
+# Fullcycle Sonarcloud
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
 
-> RepositÃ³rio do projeto **Fullcycle Sonarcloud**.
+> Repositório do projeto **Fullcycle Sonarcloud**.
 
 ## Tecnologias
 
@@ -10,11 +10,11 @@
 
 ## Como rodar
 
-### PrÃ©-requisitos
+### Pré-requisitos
 
 - Python 3.10+
 
-### InstalaÃ§Ã£o
+### Instalação
 
 ```bash
 git clone https://github.com/salomaocalheiros/fullcycle-sonarcloud.git
@@ -22,7 +22,7 @@ cd fullcycle-sonarcloud
 pip install -r requirements.txt
 ```
 
-### ExecuÃ§Ã£o
+### Execução
 
 ```bash
 python main.py
@@ -37,14 +37,15 @@ fullcycle-sonarcloud/
 ├── .gitignore
 ├── calculator.py
 ├── coverage.xml
+├── README.md
 ├── sonar-project.properties
 └── test_calculator.py
 ```
 
-## ContribuiÃ§Ã£o
+## Contribuição
 
-ContribuiÃ§Ãµes sÃ£o bem-vindas. Abra uma issue ou envie um pull request.
+Contribuições são bem-vindas. Abra uma issue ou envie um pull request.
 
 ---
 
-**Autor:** [SalomÃ£o Calheiros](https://github.com/salomaocalheiros)
+**Autor:** [Salomão Calheiros](https://github.com/salomaocalheiros)
